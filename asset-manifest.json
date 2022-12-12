@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-cart-react-redux/static/css/main.c2cab247.css",
+    "main.js": "/food-cart-react-redux/static/js/main.2962bcdd.js",
+    "index.html": "/food-cart-react-redux/index.html",
+    "main.c2cab247.css.map": "/food-cart-react-redux/static/css/main.c2cab247.css.map",
+    "main.2962bcdd.js.map": "/food-cart-react-redux/static/js/main.2962bcdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.2962bcdd.js"
+  ]
+}
